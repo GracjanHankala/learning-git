@@ -12,4 +12,4 @@ for sklep, produkty in zakupy .items():
     print(f"Idę do {sklep_nazwa} kupuję am następujące rzeczy: {produkty_nazwa}.")
     suma_produktów += len(produkty)
 
-    
+print(f"W sumie kupuję {suma_produktów} produktów.")
