@@ -11,5 +11,5 @@ for sklep, produkty in zakupy .items():
     produkty_nazwa = ', '.join([produkt.title() for produkt in produkty])
     print(f"Idę do {sklep_nazwa} kupuję am następujące rzeczy: {produkty_nazwa}.")
     suma_produktów += len(produkty)
-
+# Suma produktów
 print(f"W sumie kupuję {suma_produktów} produktów.")
