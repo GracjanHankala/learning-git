@@ -1,9 +1,9 @@
 # Zadanie lista zakupów
 
 zakupy = {
-    "piekarnia,": ["chleb", "bułki", "pączek", "rogalik", ],
+    "piekarnia,": ["chleb", "bułki", "pączek", "rogalik",],
     "warzywniak,": ["marchew", "seler", "rukola", "pomidor"],
-    "sklep wędkarski,": []
+    "sklep wędkarski,": ["żyłka", "podbierak", "przynęta", "spławik"]
 }
 
 # Tworzenie pętli
